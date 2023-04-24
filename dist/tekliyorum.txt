@@ -1,0 +1,11 @@
+Fonksiyon Adi: Motor
+Fonksiyon Adi: Motor
+Fonksiyon Adi: Motor
+ false yapılıyor
+----------------------------
+Fonksiyon Adi: getMotorNo
+ motor no getir
+----------------------------
+Fonksiyon Adi: toString
+ durum belirlenmesi //
+----------------------------
